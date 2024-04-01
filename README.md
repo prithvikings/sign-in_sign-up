@@ -1,5 +1,7 @@
 # Frontend Sign Up and Sign In Page
 
+# Preview: https://prithvikings.github.io/sign-in_sign-up/
+
 Welcome to the Basic Frontend Sign Up and Sign In Page repository! This project provides a simple HTML/CSS/JavaScript frontend for users to sign up for an account and sign in securely.
 
 ## Getting Started
